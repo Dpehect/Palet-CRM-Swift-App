@@ -4,25 +4,26 @@ Palet CRM is a high-performance, native SwiftUI client relationship management a
 
 The user interface automatically adapts to specific size classes and platform constraints, delivering targeted layouts for iPhone (compact bottom floating tabs), iPad (master-detail navigation split views), and macOS (three-column catalog listings with custom toolbars).
 
-## App Showcase
+## App Screenshots
 
-Here is the CRM application running across the Apple product lineup:
+Below are the screenshots of the application running natively:
 
-![Palet CRM Multi-Device Lineup](./assets/lineup_mockup.png)
+### Dashboard & Metrics
+Overview of executive metrics including active projects, sales performance, leads, and site status:
 
-### Dashboard Page
+![Dashboard Metrics](./assets/dashboard_metrics.jpg)
 
-Below is the live executive overview, featuring the exploding donut site status chart, conversion pipeline chevrons, and projects listing:
+### Critical Projects & Client Accounts
+Breakdown of active construction statuses and client accounts data:
 
-![Dashboard Overview](./assets/dashboard_overview.jpg)
-
-### Projects & Clients Pages
-
-The screenshots below showcase the Corporate Real Estate Portfolio listing and the Client Account records:
-
-| Projects Overview | Clients Overview |
+| Critical Project Status | Client Accounts |
 |---|---|
-| ![Projects Overview](./assets/projects_overview.jpg) | ![Clients Overview](./assets/clients_overview.jpg) |
+| ![Critical Projects](./assets/critical_projects.jpg) | ![Clients List](./assets/clients_list.jpg) |
+
+### Projects Portfolio
+Detailed view of corporate real estate and civil portfolios:
+
+![Projects Portfolio](./assets/projects_portfolio.jpg)
 
 ---
 
